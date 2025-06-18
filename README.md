@@ -46,5 +46,6 @@ This project showcases an interactive Finance KPI Dashboard built in Power BI to
 
 ### 🔗 View Project 
 
+https://github.com/user-attachments/assets/a78718ba-1fdc-4c50-96bf-1095668e3344
 
 
