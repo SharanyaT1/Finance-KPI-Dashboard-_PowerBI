@@ -4,6 +4,7 @@
 This project showcases an interactive Finance KPI Dashboard built in Power BI to monitor the financial performance of a fictional company. It provides real-time insights into key business metrics such as target sales, actual sales, profit, and sales persons’ performances. The dashboard is designed to support business decision-making with clarity, usability, and interactivity. It demonstrates key skills in data modeling, DAX, data visualization, and business storytelling.
 
 <img width="716" alt="Finance KPI Dashboard_powerBI" src="https://github.com/user-attachments/assets/54a90262-b8ad-4eeb-bd84-6c679b664b57" />
+
 ### 🔗 View Project 
 
 https://github.com/user-attachments/assets/a78718ba-1fdc-4c50-96bf-1095668e3344
