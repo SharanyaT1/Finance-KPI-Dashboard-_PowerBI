@@ -6,9 +6,9 @@ This project showcases an interactive Finance KPI Dashboard built in Power BI to
 <img width="716" alt="Finance KPI Dashboard_powerBI" src="https://github.com/user-attachments/assets/54a90262-b8ad-4eeb-bd84-6c679b664b57" />
 
 ### 🎯 Objectives
-•	Visualize high-level financial KPIs at a glance
-•	Analyze sales persons' performance trend over time
-•	Filter and compare financial performance across departments 
+•	Visualize high-level financial KPIs at a glance<br/>
+•	Analyze sales persons' performance trend over time<br/>
+•	Filter and compare financial performance across departments<br/> 
 
 ### 🧩 Tools & Techniques
 •	Power BI Desktop for dashboard creation and design
