@@ -18,10 +18,10 @@ This project showcases an interactive Finance KPI Dashboard built in Power BI to
 •	Slicers and cards for dynamic filtering and user control
 
 ### 📈 Key Features
-- ✅ KPI Cards for high-level metrics and using reference labels to add context  
-- 📅 Slicers for dynamic team-level performance analysis  
-- 📊 Bar, line, conditional formating and sparklines in table visual for trend and comparison analysis   
-- 🧠 Data insights using calculated measures (e.g., YTD values, % change)
+✅ KPI Cards for high-level metrics and using reference labels to add context  
+📅 Slicers for dynamic team-level performance analysis  
+📊 Bar, line, conditional formating and sparklines in table visual for trend and comparison analysis   
+🧠 Data insights using calculated measures (e.g., YTD values, % change)
 
 ### 💡 Insights & Outcomes
 📉 Sales Performance Decline: Identified a 14.54% drop in actual sales over the year, with the steepest decline (24.87%) occurring between November 2023 and February 2024.
